@@ -1,2 +1,0 @@
-# hironest-hp
-HiroNest.comのホームページです
